@@ -1,2 +1,2 @@
-# Projeto app para celular
- Projeto app para celular
+# Projeto aplicativo para celular
+ Projeto aplicativo para celular
